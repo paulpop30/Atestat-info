@@ -1,0 +1,32 @@
+Formatul initial al tabelului de persoane inscrise este:
+1 0 0 
+2 0 0 
+3 0 0 
+4 0 0 
+5 0 0 
+1
+Persoanele sunt programate la examenul teoretic in ordinea inscrierii
+Ordinea de desfasurare a probei scrise este:
+1 0 0 
+2 0 0 
+3 0 0 
+4 0 0 
+5 0 0 
+Pentru cei ce trec de proba scrisa vom avea un nou tabel cu a  doua coloana continand cifra 1,iar ceilalti vor avea 0
+Formatul noului tabel de persoane  este:
+3 1 0 
+4 1 0 
+5 0 0 
+2 0 0 
+1 1 0 
+Persoanele pregatite pentru oras sunt in numar de: 3
+Participantii la proba practica sunt:
+3 1 0 
+4 1 0 
+1 1 0 
+Ordinea de desfasurare a probei practice este:
+1 1 0 
+3 1 0 
+4 1 0 
+Pentru cei ce trec de proba practica vom avea un nou tabel cu a treia coloana continand cifra 1,iar ceilalti vor avea 0
+Procentul de promovabilitate este:66%
