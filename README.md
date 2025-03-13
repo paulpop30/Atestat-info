@@ -1,2 +1,2 @@
 # Atestat-info
-Atestat info- scoala rutieră
+Atestat info - scoala rutieră - implementare c++ - descriere
